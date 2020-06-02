@@ -1,0 +1,8 @@
+uuid: 13c80bfc-5ba0-4a01-b56c-fe639df0f476
+langcode: en
+status: true
+dependencies: {  }
+name: catagories
+vid: catagories
+description: 'This is simple demo changes'
+weight: 0

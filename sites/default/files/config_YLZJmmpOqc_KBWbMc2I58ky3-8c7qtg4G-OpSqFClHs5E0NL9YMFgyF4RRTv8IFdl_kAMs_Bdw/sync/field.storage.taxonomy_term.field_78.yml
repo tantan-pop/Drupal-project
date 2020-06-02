@@ -1,0 +1,23 @@
+uuid: 2d723060-fdaa-4c31-8118-a90087b8b8ea
+langcode: en
+status: true
+dependencies:
+  module:
+    - options
+    - taxonomy
+id: taxonomy_term.field_78
+field_name: field_78
+entity_type: taxonomy_term
+type: list_float
+settings:
+  allowed_values:
+    - value: !!float 0
+      label: yywyryweg
+  allowed_values_function: ""
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {}
+persist_with_no_fields: false
+custom_storage: false

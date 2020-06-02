@@ -1,0 +1,8 @@
+global-styling:
+  css:
+    theme:
+      css/colors.css: {}
+  js:
+    js/cuddly-slider.js: {}
+  dependencies:
+    - core/jquery

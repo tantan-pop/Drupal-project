@@ -1,0 +1,26 @@
+body{
+    background-color:#d85265eb;
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
+}
+.header{
+    font-size: 20px;
+    padding: '20px 20px 20px 0';
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+.ulHeader{
+    display: flex;
+    padding: 0;
+}
+.ulHeader li{
+    list-style-type: none;
+    margin-right: 10px;
+    text-align: center;
+}
+.ulHeader li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}

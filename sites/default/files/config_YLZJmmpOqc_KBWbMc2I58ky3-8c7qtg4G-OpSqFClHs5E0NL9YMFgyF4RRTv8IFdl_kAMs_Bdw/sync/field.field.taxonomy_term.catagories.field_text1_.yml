@@ -1,0 +1,19 @@
+uuid: bd121bf4-09a9-4602-bb54-7f16e7002883
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_text1_
+    - taxonomy.vocabulary.catagories
+id: taxonomy_term.catagories.field_text1_
+field_name: field_text1_
+entity_type: taxonomy_term
+bundle: catagories
+label: 'text1 '
+description: 'There is a security update available for your version of Drupal. To ensure the security of your server, you should update immediately! See the available updates page for more information and to install your missing updates.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

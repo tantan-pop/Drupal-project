@@ -1,0 +1,13 @@
+name: Beautifier
+type: theme
+description: 'A Beautiful theme that offers extra beauty.'
+core: 8.x
+libraries:
+  - beautifier_theme/global-styling
+base theme: classy
+logo: images/logo.png
+regions:
+  header: Header
+  content: Content
+  sidebar_first: 'Sidebar first'
+  footer: Footer

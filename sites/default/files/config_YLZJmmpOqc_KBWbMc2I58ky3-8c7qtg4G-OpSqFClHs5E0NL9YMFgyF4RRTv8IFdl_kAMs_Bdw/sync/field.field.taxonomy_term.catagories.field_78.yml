@@ -1,0 +1,21 @@
+uuid: 71524845-820b-493b-a50a-fa974f364afc
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_78
+    - taxonomy.vocabulary.catagories
+  module:
+    - options
+id: taxonomy_term.catagories.field_78
+field_name: field_78
+entity_type: taxonomy_term
+bundle: catagories
+label: '78'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_float

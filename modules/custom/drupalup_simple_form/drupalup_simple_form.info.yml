@@ -1,0 +1,4 @@
+name: custom form
+type: module
+description: custom form for adding number
+core: 8.x
